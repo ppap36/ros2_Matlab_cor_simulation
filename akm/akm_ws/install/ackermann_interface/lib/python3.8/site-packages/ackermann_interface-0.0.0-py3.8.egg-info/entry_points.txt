@@ -1,0 +1,3 @@
+[console_scripts]
+akm_topic = ackermann_interface.akm_topic:main
+

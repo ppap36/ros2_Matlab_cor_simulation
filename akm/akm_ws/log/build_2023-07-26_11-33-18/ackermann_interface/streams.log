@@ -1,0 +1,21 @@
+[0.512s] Invoking command in '/root/akm/akm_ws/src/ackermann_interface': PYTHONPATH=/root/akm/akm_ws/build/ackermann_interface/prefix_override:/root/akm/akm_ws/install/ackermann_interface/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ackermann_interface build --build-base /root/akm/akm_ws/build/ackermann_interface/build install --record /root/akm/akm_ws/build/ackermann_interface/install.log --install-scripts $base/lib/ackermann_interface --single-version-externally-managed
+[0.674s] running egg_info
+[0.675s] writing ../../build/ackermann_interface/ackermann_interface.egg-info/PKG-INFO
+[0.676s] writing dependency_links to ../../build/ackermann_interface/ackermann_interface.egg-info/dependency_links.txt
+[0.676s] writing entry points to ../../build/ackermann_interface/ackermann_interface.egg-info/entry_points.txt
+[0.677s] writing requirements to ../../build/ackermann_interface/ackermann_interface.egg-info/requires.txt
+[0.677s] writing top-level names to ../../build/ackermann_interface/ackermann_interface.egg-info/top_level.txt
+[0.704s] reading manifest file '../../build/ackermann_interface/ackermann_interface.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/ackermann_interface/ackermann_interface.egg-info/SOURCES.txt'
+[0.705s] running build
+[0.705s] running build_py
+[0.706s] running install
+[0.706s] running install_lib
+[0.707s] running install_data
+[0.708s] running install_egg_info
+[0.709s] removing '/root/akm/akm_ws/install/ackermann_interface/lib/python3.8/site-packages/ackermann_interface-0.0.0-py3.8.egg-info' (and everything under it)
+[0.709s] Copying ../../build/ackermann_interface/ackermann_interface.egg-info to /root/akm/akm_ws/install/ackermann_interface/lib/python3.8/site-packages/ackermann_interface-0.0.0-py3.8.egg-info
+[0.710s] running install_scripts
+[0.724s] Installing akm_topic script to /root/akm/akm_ws/install/ackermann_interface/lib/ackermann_interface
+[0.724s] writing list of installed files to '/root/akm/akm_ws/build/ackermann_interface/install.log'
+[0.749s] Invoked command in '/root/akm/akm_ws/src/ackermann_interface' returned '0': PYTHONPATH=/root/akm/akm_ws/build/ackermann_interface/prefix_override:/root/akm/akm_ws/install/ackermann_interface/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ackermann_interface build --build-base /root/akm/akm_ws/build/ackermann_interface/build install --record /root/akm/akm_ws/build/ackermann_interface/install.log --install-scripts $base/lib/ackermann_interface --single-version-externally-managed
